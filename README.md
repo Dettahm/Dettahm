@@ -9,16 +9,16 @@ Proyek ini bertujuan untuk memprediksi konsumsi energi listrik harian berbasis d
 ---
 
 ## 📁 Struktur Folder
->main.py # Antarmuka utama aplikasi berbasis Tkinter
-data_loader.py # Modul untuk memuat dan memvisualisasi data
-trainer.py # Modul untuk melatih dan menyimpan model
-evaluator.py # Modul untuk mengevaluasi model dan visualisasi
-predictor.py # (opsional) Untuk prediksi masa depan
-/Modules # Folder tempat modul disimpan
-/Models # Folder menyimpan model hasil training (.pkl)
-/Data Dummy # Folder menyimpan contoh CSV
-README.md # Dokumentasi proyek
-.gitignore # File ignore untuk Git
+-main.py # Antarmuka utama aplikasi berbasis Tkinter
+-data_loader.py # Modul untuk memuat dan memvisualisasi data
+-trainer.py # Modul untuk melatih dan menyimpan model
+-evaluator.py # Modul untuk mengevaluasi model dan visualisasi
+-predictor.py # (opsional) Untuk prediksi masa depan
+-/Modules # Folder tempat modul disimpan
+-/Models # Folder menyimpan model hasil training (.pkl)
+-/Data Dummy # Folder menyimpan contoh CSV
+-README.md # Dokumentasi proyek
+-.gitignore # File ignore untuk Git
 
 
 ---
