@@ -99,23 +99,3 @@ Model akan menampilkan beberapa metrik evaluasi:
 ---
 
 > 📌 *Proyek ini merupakan implementasi nyata pemanfaatan AI sederhana untuk monitoring dan prediksi konsumsi energi rumah tangga berbasis data sensor.*
-
-```
-
----
-
-### ✅ Saran Selanjutnya
-- Simpan file ini sebagai `README.md` di direktori root proyek.
-- Pastikan semua file `.py` dan folder terkait (`Models/`, `Data Dummy/`, `Laporan/`) sudah berada dalam folder proyek.
-- Jika belum, tambahkan juga `requirements.txt` berisi:
-```
-
-pandas
-matplotlib
-scikit-learn
-joblib
-
-```
-
-Ingin saya bantu update `.gitignore` atau `requirements.txt` juga?
-```
