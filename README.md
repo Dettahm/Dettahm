@@ -9,6 +9,7 @@ Proyek ini bertujuan untuk memprediksi konsumsi energi listrik harian berbasis d
 ---
 
 ## 📁 Struktur Folder
+<<<<<<< HEAD
 ├── main.py # Antarmuka utama aplikasi berbasis Tkinter
 ├── data_loader.py # Modul untuk memuat dan memvisualisasi data
 ├── trainer.py # Modul untuk melatih dan menyimpan model
@@ -19,6 +20,18 @@ Proyek ini bertujuan untuk memprediksi konsumsi energi listrik harian berbasis d
 ├── /Data Dummy # Folder menyimpan contoh CSV
 ├── README.md # Dokumentasi proyek
 ├── .gitignore # File ignore untuk Git
+=======
+-main.py # Antarmuka utama aplikasi berbasis Tkinter
+-data_loader.py # Modul untuk memuat dan memvisualisasi data
+-trainer.py # Modul untuk melatih dan menyimpan model
+-evaluator.py # Modul untuk mengevaluasi model dan visualisasi
+-predictor.py # (opsional) Untuk prediksi masa depan
+-/Modules # Folder tempat modul disimpan
+-/Models # Folder menyimpan model hasil training (.pkl)
+-/Data Dummy # Folder menyimpan contoh CSV
+-README.md # Dokumentasi proyek
+-.gitignore # File ignore untuk Git
+>>>>>>> 7cf46a25a86a8688d3a949182af03803c16fdde4
 
 
 ---
@@ -65,4 +78,8 @@ joblib
 Dibuat oleh Deta Hata Maulana
 Email: Deta.122490003@student.itera.ac.id
 Email: detahatamaulana@gmail.com
+<<<<<<< HEAD
 Repo: https://github.com/Dettahm/Dettahm
+=======
+Repo: https://github.com/Dettahm/Dettahm
+>>>>>>> 7cf46a25a86a8688d3a949182af03803c16fdde4
