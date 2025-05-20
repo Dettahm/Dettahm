@@ -1,8 +1,3 @@
-Tentu! Berikut adalah versi **terstruktur, rapi, dan profesional** dari file `README.md` kamu, lengkap dengan **emoji, markdown yang rapi**, dan **penjelasan jelas** agar menarik di GitHub:
-
----
-
-```markdown
 # 🔌 Prediksi Konsumsi Energi Listrik Rumah Tangga
 
 Proyek ini bertujuan untuk **memprediksi konsumsi energi listrik harian** berbasis data dari sensor **PZEM-004T**, menggunakan algoritma **Machine Learning Linear Regression**. Aplikasi ini dilengkapi antarmuka berbasis **Tkinter** yang memudahkan pengguna untuk:
